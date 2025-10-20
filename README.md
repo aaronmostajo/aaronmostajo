@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Aaron Zamir Mostajo 👋
 
-<!--
-**aaronmostajo/aaronmostajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer focused on building innovative solutions. Currently exploring the world of cryptocurrency applications and web development.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- **Crypto App**: Building a cryptocurrency tracking and analysis application
+- **Portfolio Website**: Personal portfolio showcasing my work and skills
+- **Cannabis Project**: Exploring innovative solutions in the cannabis industry
+
+## 📊 GitHub Stats
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronmostajo&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmostajo&layout=compact&theme=radical)
+
+## 🌱 Currently Learning
+- Advanced React patterns
+- Web3 and Blockchain development
+- Full-stack development best practices
+
+## 📫 How to Reach Me
+- Email: aaronmostajo02@gmail.com
+- GitHub: [@aaronmostajo](https://github.com/aaronmostajo)
+
+## ⚡ Fun Fact
+I believe in building applications that make a real difference in people's lives!
+
+---
+⭐️ From [aaronmostajo](https://github.com/aaronmostajo)
