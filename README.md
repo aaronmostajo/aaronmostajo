@@ -15,12 +15,6 @@ I'm a passionate developer focused on building innovative solutions. Currently e
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 
-
-## 🔭 Current Projects
-- **Crypto App**: Building a cryptocurrency tracking and analysis application
-- **Portfolio Website**: Personal portfolio showcasing my work and skills
-- **Cannabis Project**: Exploring innovative solutions in the cannabis industry
-
 ## 📊 GitHub Stats
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronmostajo&show_icons=true&theme=radical)
 
